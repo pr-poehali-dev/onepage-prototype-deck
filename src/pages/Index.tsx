@@ -21,7 +21,7 @@ const products: Product[] = [
     name: 'Eucalyptus Honey',
     description: 'It has the sweet of lavender, makes as distinctive, which is also finest as honey.',
     price: '₽890',
-    image: 'https://cdn.poehali.dev/files/98482bc4-6b68-440a-8d27-a5bd9204c957.png',
+    image: 'https://cdn.poehali.dev/projects/f9ce64ae-7fab-4558-97b7-25dcc56a4a48/files/ba5610f4-6b25-4dc4-9510-e7558ff22f83.jpg',
     details: 'Натуральный эвкалиптовый мёд с уникальным ароматом и целебными свойствами. Собран в экологически чистых районах.'
   },
   {
@@ -29,7 +29,7 @@ const products: Product[] = [
     name: 'Basswood Honey',
     description: 'Basswood is a tree native and abundant in distinctive, which is also finest as honey.',
     price: '₽950',
-    image: 'https://cdn.poehali.dev/files/98482bc4-6b68-440a-8d27-a5bd9204c957.png',
+    image: 'https://cdn.poehali.dev/projects/f9ce64ae-7fab-4558-97b7-25dcc56a4a48/files/d86348fe-11dd-4c73-b01a-96acfea176d2.jpg',
     details: 'Липовый мёд - классика русского пчеловодства. Обладает приятным ароматом липового цвета и целебными свойствами.'
   },
   {
@@ -37,7 +37,7 @@ const products: Product[] = [
     name: 'Acacia Honey',
     description: 'Light and delicate honey with a mild, sweet flavor. Perfect for tea and desserts.',
     price: '₽1050',
-    image: 'https://cdn.poehali.dev/files/98482bc4-6b68-440a-8d27-a5bd9204c957.png',
+    image: 'https://cdn.poehali.dev/projects/f9ce64ae-7fab-4558-97b7-25dcc56a4a48/files/5e5266bd-9c96-4824-a406-616ab26ca1cd.jpg',
     details: 'Акациевый мёд - один из самых ценных сортов. Долго не кристаллизуется, имеет нежный вкус и аромат.'
   },
   {
@@ -45,7 +45,7 @@ const products: Product[] = [
     name: 'Wildflower Honey',
     description: 'Rich and aromatic honey from diverse wildflowers, full of natural goodness.',
     price: '₽790',
-    image: 'https://cdn.poehali.dev/files/98482bc4-6b68-440a-8d27-a5bd9204c957.png',
+    image: 'https://cdn.poehali.dev/projects/f9ce64ae-7fab-4558-97b7-25dcc56a4a48/files/ba5610f4-6b25-4dc4-9510-e7558ff22f83.jpg',
     details: 'Полифлорный мёд из разнотравья. Богатый состав и насыщенный вкус делают его особенным.'
   }
 ];
